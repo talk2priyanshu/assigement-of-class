@@ -1,0 +1,13 @@
+*{
+    background-color: #ff8800;
+}
+table {
+    border-collapse: collapse; /* Collapse borders into a single border */
+    border: 1px solid black; /* Creates a single black border around the table */
+    width: 100%;
+}
+th, td {
+    border: 1px solid black; /* Creates a single black border around table cells */
+    padding: 8px;
+    text-align: center;
+}
